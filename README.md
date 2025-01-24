@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Odoo Developer
 --------------
 
-Been learning to code for 5 years. Very Interested in Python language. 2 years experience working as Odoo Developer, and now I'm learning Data Science.
+An Odoo Developer with 4 years of experience in developing ERP system. Involved in various Odoo implementation such as HRIS, Procurement, Point of Sales, Accounting, etc. Having interest on new technology, strong logical thinking and fast-learning person.
+
 
 * 🌍  I'm based in Kebumen, Central Java, Indonesia
 * ✉️  You can contact me at [chaidaraji@gmail.com](mailto:chaidaraji@gmail.com)
-* 🧠  I'm learning Data Science
 
 ### Skills
 
